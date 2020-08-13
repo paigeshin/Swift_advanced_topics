@@ -10,6 +10,6 @@
 
 # Swift Advanced Network with `Generic`
 
-# Swift Highter Order Function
+# Swift Higher Order Function
 
 # Swift Clousre Examples
